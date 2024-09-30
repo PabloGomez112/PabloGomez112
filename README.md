@@ -1,4 +1,4 @@
-<h2 align="left">Hola soy Pablo Gómez y me dedico al desarrollo full-stack.</h2>
+<h2 align="left"></h2>
 
 ###
 
