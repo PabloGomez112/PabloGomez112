@@ -8,9 +8,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://cdn.wallpapersafari.com/24/32/TwK06M.gif"  />
-
 ###
 ###
 
